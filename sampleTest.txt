@@ -1,1 +1,2 @@
 this is my first code file on github
+I'm  c++ develper and I'm developing project.
